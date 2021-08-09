@@ -1,0 +1,8 @@
+.history
+.vscode
+node_modules/
+build
+.awcache
+dist
+.idea
+.env

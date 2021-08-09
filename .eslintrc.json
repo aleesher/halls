@@ -1,0 +1,15 @@
+{
+  "extends": ["airbnb", "prettier"],
+  "plugins": ["react", "jsx-a11y", "import"],
+  "rules": {
+    "arrow-parens": "off",
+    "comma-dangle": ["error", "never"],
+    "function-paren-newline": "off",
+    "no-await-in-loop": "off",
+    "no-confusing-arrow": "off",
+    "no-console": ["warn", { "allow": ["warn", "error", "info"] }],
+    "no-restricted-syntax": "off",
+    "object-curly-newline": "off",
+    "quotes": ["error", "double"]
+  }
+}
